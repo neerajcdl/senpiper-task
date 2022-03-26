@@ -1,0 +1,18 @@
+.main-container{ width: 100vw; height: 100vh; background-color: #ecf0f1; padding: 40px 20px 20px 20px; }
+
+.main-container .table-containers table { width: 70%; border: 2px solid grey; background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; }
+
+.main-container .table-containers table thead tr th{border: 1px solid gray; }
+
+.main-container .table-containers table tbody tr td{ border: 1px solid gray; }
+
+@media (max-width: 768px){
+    .main-container .table-containers table thead tr th {
+        font-size: 9px;
+    }
+
+    .main-container .table-containers table tbody tr td {
+        font-size: 9px;
+    }
+}
