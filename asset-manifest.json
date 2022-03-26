@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/senpiper-task/static/css/main.ff9aeab1.css",
+    "main.js": "/senpiper-task/static/js/main.d3a4d530.js",
+    "index.html": "/senpiper-task/index.html",
+    "main.ff9aeab1.css.map": "/senpiper-task/static/css/main.ff9aeab1.css.map",
+    "main.d3a4d530.js.map": "/senpiper-task/static/js/main.d3a4d530.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff9aeab1.css",
+    "static/js/main.d3a4d530.js"
+  ]
+}
